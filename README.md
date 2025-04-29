@@ -46,19 +46,19 @@ This project requires the following tools and software packages:
 
 ### Clone the Repository and Istalling Python Dependencies:
 1. Open terminal or command prompt and navigate to the directory where you want to store the project
-   ```python
+   ```bash
    cd directory_name
    ```
 3. Run the code below to clone the repository
-   ```python
+   ```bash
    https://github.com/Keshwar02/Customer-Churn-Prediction.git
    ```
 3. Navigate to the project directory. This is necessary so that subsequent commands(like installing dependencies) are executed within the context of the project
-   ```python
+   ```bash
    cd repository_name
    ```
 4. Installing Python Dependencies
-   ```python
+   ```bash
    pip install numpy pandas matplotlib seaborn plotly scikit-learn xgboost tensorflow shap
    ```
    
