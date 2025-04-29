@@ -51,7 +51,7 @@ This project requires the following tools and software packages:
    ```
 3. Run the code below to clone the repository
    ```python
-   
+   https://github.com/Keshwar02/Customer-Churn-Prediction.git
    ```
 3. Navigate to the project directory. This is necessary so that subsequent commands(like installing dependencies) are executed within the context of the project
    ```python
