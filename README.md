@@ -49,7 +49,7 @@ This project requires the following tools and software packages:
    ```bash
    cd directory_name
    ```
-3. Run the code below to clone the repository
+2. Run the code below to clone the repository
    ```bash
    git clone https://github.com/Keshwar02/Customer-Churn-Prediction.git
    ```
